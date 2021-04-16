@@ -1,0 +1,240 @@
+.full_website{
+    width: 1150px;
+    border: 3px solid grey;
+    height: 2500px;
+    margin: 0 auto;
+
+}
+.first_room{
+    background: rgb(63, 63, 223);
+    height: 50px;
+    width: 100%;
+    padding: 10px 0px;
+}
+.logo{
+    width: 40%;
+    float: left;
+    padding: 10px 15px;
+
+}
+.logo h1{
+    color: wheat;
+    margin: 0 auto;
+}
+.banner{
+    width: 50%;
+    float: right;
+}
+.second_room{
+    background: rgb(158, 73, 238);
+   
+}
+.menu ul{
+    height: 38px;
+
+}
+.menu ul li{
+    display: inline-block;
+    padding: 10px 0px;
+    margin-left: -4px;
+    border-right: 1px solid rgb(245, 212, 151);
+
+
+}
+.menu ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+      
+}
+.menu ul li a:hover{
+    background: red;
+}
+.menu ul li:first-child{
+    margin-left: 0px;
+
+}
+.third_room{
+    background: rgb(77, 77, 196);
+    width: 100%;
+    height: AUTO;
+}
+.slider h2{
+    color: rgb(32, 26, 26);
+   text-align: center;
+   padding-top: 50px;
+   
+}
+.fourth_room{
+    height:600px;
+
+}
+.content{
+    background: red;
+    width: 63%;
+    float: left;
+    height: auto;
+    text-align: justify;
+    padding: 10px 5px;
+}
+.content img{
+    width: 40%;
+    height: 150px;
+    float:right;
+    margin-right: 25px;
+    padding: 15px;
+    border: 2px solid black;
+    background: coral;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.content p{
+    font-size: 14;
+    text-align: justify;
+    text-decoration: white;
+    padding:5px 5px;
+
+}
+.content a{
+    text-decoration: none;
+    color: white;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 10px 10px;
+    background: violet;
+}
+.content a:hover{
+    background: white;
+    color: black;
+}
+.readmore{
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.fullcontent{
+    margin-top: 0px;
+}
+.rightsidebar{
+    background: green;
+    width: 32%;
+    float: right;
+    height: auto;
+    
+}
+.sidebar_element{
+    background: green;
+    width: 32%;
+    float: right;
+    height: auto;
+
+}
+.sidebar_element h2{
+    color: white;
+    background-color: blue;
+    border-bottom: 2px solid black;
+    width: 69%;
+    padding: 10px 10px;
+    margin-left: 0px;
+    text-align: center;
+    
+}
+.sidebar_element ul li{
+    padding: 5px 0px;
+}
+.sidebar_element a{
+    color: blue;
+    text-decoration: none;
+    font-size: 18px;
+}
+.sidebar_element a:hover{
+     text-decoration: underline;
+    
+}
+.fifth_room{
+    clear: right;
+    background: rgb(235, 63, 63);
+    height: auto;
+    display: flex;
+    padding: 60px 15px;
+    justify-content: space-between;
+  
+}
+.box{
+  
+}
+.box h2{
+    color: rgb(235, 137, 137);
+    border-bottom: 2px solid green;
+    color: white;
+    border-bottom: 3px solid white;
+    width: 72%;
+    
+}
+.box ul{
+    padding: 5px 25px;
+}
+.box ul li{
+    padding: 10px 15px;
+
+}
+.sixth_room{
+    background: black;
+    text-align: center;
+
+}
+.sixth_room h4{
+    color: wheat;
+}
+/* about page css */
+.about_room{
+    width: 55%;
+    background: rgb(112, 139, 228);
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 25px 25px;
+    border: 2px solid green;
+   
+    
+}
+.about_room h2{
+    color:rgb(76, 89, 133);
+    text-align: center;
+    padding: 5px 0px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+
+}
+.about_room p{
+    font-size: 20px;
+    line-height: 40px;
+    color: wheat;
+    padding: 15px 15px;
+    text-align: justify;
+
+}
+
+.form{
+    width: 40%;
+    margin: 0 auto;
+
+}
+.lebel{
+    color: white;
+}
+.input{
+    width: 100%;
+    background: hotpink;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+textarea{
+width: 100%;
+background: white;
+padding: 5px;
+border: 2px solid blanchedalmond;
+border-radius: 10px;
+}
